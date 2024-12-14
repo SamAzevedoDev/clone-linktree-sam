@@ -6,7 +6,7 @@
   
   body {
       font-family: Arial, sans-serif;
-      background-color: #a30000;
+      background-color: #690303;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -18,7 +18,7 @@
       width: 80%;
       max-width: 400px;
       text-align: center;
-      background-color: #c1d3eb;
+      background-color: #e41313;
       padding: 20px;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -29,7 +29,7 @@
       height: 120px;
       border-radius: 50%;
       object-fit: cover;
-      border: 3px solid #ddd;
+      border: 3px solid #dddddd;
   }
   
   .name {
@@ -39,7 +39,8 @@
   
   .description {
       font-size: 16px;
-      color: #777;
+      font-weight: bold;
+      color: #030003;
       margin-bottom: 20px;
   }
   
@@ -52,7 +53,7 @@
       display: block;
       text-decoration: none;
       color: #fff;
-      background-color: #443564;
+      background-color: #a30000;
       padding: 10px;
       margin-top: 10px;
       border-radius: 5px;
@@ -60,5 +61,5 @@
   }
   
   .link:hover {
-      background-color: #2c2050;
+      background-color: #c70f09;
   }
